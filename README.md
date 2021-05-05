@@ -15,3 +15,4 @@ soil moisture sensor A0 to analog pin 0 of arduino
 GROUND to ground pin of arduino uno
 
 Vcc to pin 5V of arduino uno
+
