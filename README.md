@@ -55,3 +55,7 @@ Easy monitoring from anywhere in the world.
 - Connect pump GND to Arduino GND pin.
 
 - Connect pump VCC to Relay.
+
+
+## Soil Moisture sensor Working
+
