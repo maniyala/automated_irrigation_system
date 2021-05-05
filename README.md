@@ -22,9 +22,13 @@ Easy monitoring from anywhere in the world.
 
 **Connections**
 
-soil moisture sensor A0 to analog pin 0 of arduino 
+Connecting Soil Moisture Sensor to Arduino UNO. 
 
-GROUND to ground pin of arduino uno
+sensor VCC to Arduino’s 5v pin.
 
-Vcc to pin 5V of arduino uno
+sensor GND to Arduino’s GND pin.
+
+sensor analog pin to Arduino A0 pin.
+
+
 
