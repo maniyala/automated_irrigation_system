@@ -3,7 +3,8 @@
 This project is sensor-based application for sensing the humidity of any plant and setting up irrigation to automatically water it using water pump with hose. So, restoring water as needed, while minimizing excess water use, it automatically turns the water pump on when the moisture level in the soil is very low and turns the water pump off when the moisture level reaches the threshold value. 
 
 
-**Objective**
+**# Objective**
+
 
 To design an automatic irrigation system thereby saving time & power for the farmer.
 
